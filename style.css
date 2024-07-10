@@ -1,0 +1,11 @@
+.container {
+    background-color: bisque;
+    width: 800px;
+    margin: 50px;
+}
+.container h2 {
+    padding: 20px;
+}
+.accordion{
+    padding-bottom: 10px;
+}
